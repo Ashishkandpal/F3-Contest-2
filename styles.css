@@ -1,0 +1,23 @@
+/* img {
+  width: 200px;
+  height: 200px;
+} */
+
+table {
+  table-layout: auto;
+  width: 100%;
+  margin-bottom: 5%;
+}
+
+table,
+th,
+td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 0.5% 0.2%;
+  text-align: left;
+  vertical-align: center;
+}
